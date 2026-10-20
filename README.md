@@ -27,7 +27,7 @@ Clone the repository or download the project files.
 
 Change to the project directory:
 
-    cd recon-tool
+    cd WAPT_PHASE-2-VulnTrail
 
 Check the command options:
 
@@ -111,3 +111,4 @@ Use VulnTrail only for authorized security assessments and systems you have perm
 ## License
 
 Released under the MIT License. See `LICENSE` for details.
+
